@@ -14,7 +14,7 @@ Users Can : <br/>
 - Follow
 - Comment
 - Delete posts
-- Text Other users
+- Text Other Users
 
 # Tech Stack
 - Flutter
