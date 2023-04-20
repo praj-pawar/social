@@ -1,6 +1,21 @@
-# flutter_social
+# social
 
-A new Flutter project.
+A social media app built with Flutter.
+Users can <br/>
+- Sign Up
+- Sign In
+- Upload Posts
+- Scroll Through the Feed Page
+- Like Posts
+- Unlike Posts
+
+
+# Yet to Add
+- Follow
+- Comment
+- Delete posts
+- Text Other users
+
 
 ## Getting Started
 
