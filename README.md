@@ -1,7 +1,7 @@
 # social
 
-A social media app built with Flutter.
-Users can <br/>
+A social media app built with Flutter. <br/> <br/>
+Users Can : <br/>
 - Sign Up
 - Sign In
 - Upload Posts
@@ -16,6 +16,10 @@ Users can <br/>
 - Delete posts
 - Text Other users
 
+# Tech Stack
+- Flutter
+- Dart
+- Firebase
 
 ## Getting Started
 
